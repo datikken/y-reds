@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae9c4d3f-70ac-4969-9233-81d7d4a98f76" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/storage/mysql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/redis.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.docker.template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/auth-server-example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/auth-express/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/auth/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/auth-express/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/auth/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/auth-express/compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/auth-express/demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/auth-express/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/auth-express/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/auth/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/auth-express/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/auth/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/auth-express/rollup.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/auth-express/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/auth/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/blocksuite/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/blocksuite/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/blocksuite/client/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/blocksuite/client/editor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/blocksuite/client/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/blocksuite/client/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/blocksuite/client/sync.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/blocksuite/client/ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/blocksuite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/blocksuite/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/blocksuite/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/blocksuite/rollup.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/blocksuite/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/blocksuite/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rollup.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ws.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ws.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/auth.tests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupnpm">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/bin/php" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2hPpm8vXvkAqiXVBbZ9IXiKAzTB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Docker.auth-express/compose.yaml.demo: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/datikken/Documents/y-redis/src/storage&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/datikken/Documents/y-redis/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/storage" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/auth" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="auth-express/compose.yaml.demo: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="demo" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="demos/auth-express/compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.auth-express/compose.yaml.demo: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PS-241.14494.237" />
+        <option value="bundled-php-predefined-ba97393d7c68-8f0632a2a215-com.jetbrains.php.sharedIndexes-PS-241.14494.237" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae9c4d3f-70ac-4969-9233-81d7d4a98f76" name="Changes" comment="" />
+      <created>1717505723007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717505723007</updated>
+      <workItem from="1717505724049" duration="1929000" />
+      <workItem from="1717585568435" duration="2704000" />
+      <workItem from="1717588833272" duration="9442000" />
+      <workItem from="1717660638383" duration="82000" />
+      <workItem from="1718368069274" duration="6483000" />
+      <workItem from="1718445828785" duration="5063000" />
+      <workItem from="1718452218830" duration="5914000" />
+      <workItem from="1718532495656" duration="3179000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
